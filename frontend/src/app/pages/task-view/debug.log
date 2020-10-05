@@ -1,0 +1,4 @@
+[1004/221721.202:ERROR:registration_protocol_win.cc(103)] CreateFile: The system cannot find the file specified. (0x2)
+[1004/223518.392:ERROR:registration_protocol_win.cc(103)] CreateFile: The system cannot find the file specified. (0x2)
+[1004/224539.173:ERROR:registration_protocol_win.cc(103)] CreateFile: The system cannot find the file specified. (0x2)
+[1004/233122.169:ERROR:registration_protocol_win.cc(103)] CreateFile: The system cannot find the file specified. (0x2)
